@@ -31,11 +31,7 @@
         "multi-hashing": "https://github.com/grubens/node-multi-hashing.git",
         "bignum": "0.13.1",
         "base58-native": "*",
-        "async": "*",
-        "bitcoinjs-lib": "^5.2.0",
-        "bsv": "^1.5.4",
-        "dotenv": "^8.2.0",
-        "promise": "^8.1.0"
+        "async": "*"
     },
     "engines": {
         "node": ">=0.10"
